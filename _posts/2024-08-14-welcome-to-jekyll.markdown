@@ -1,8 +1,14 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-08-14 15:33:44 +0530
-categories: jekyll
+title: "Edge Case: Nested and Mixed Lists"
+categories:
+  - Edge Case
+tags:
+  - content
+  - css
+  - edge case
+  - lists
+  - markup
+last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
